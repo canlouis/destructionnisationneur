@@ -15,7 +15,7 @@ Ce projet a été fait dans le contexte de mon cours de Jeu 5 en collaboration a
 ![Capture d’écran 2024-12-19 152947](https://github.com/user-attachments/assets/b142bc23-2757-408a-9613-18aae7c3e873)
 
 
-### Ce repositoire contient tous les fichiers du projet Unity. ###
+### Ce repositoire contient tous les scripts du projet Unity. ###
 * Le destructionnisationneur est un jeu 3D produit dans le cadre du cours Jeu vidéo 5 au Cégep de Saint-Jérôme (A2024).
 
 ### Version de Unity ###
